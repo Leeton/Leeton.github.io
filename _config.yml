@@ -1,0 +1,9 @@
+name: Neuronic Sandbox
+markdown: kramdown
+theme: jekyll-theme-hacker
+permalink: /blog/:year/:month/:day/:title
+timezone: GB
+collections:
+  projects:
+    output: true
+    permalink: /projects/:path
